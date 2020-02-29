@@ -1,2 +1,2 @@
 # Automated-Stuff
-Random python programs that automate random stuff
+Random python programs that automate random stuff. This is for entertainment purposes
